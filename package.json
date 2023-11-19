@@ -1,0 +1,12 @@
+{
+  "name": "oleg-js-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --env-file=.env bot.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
